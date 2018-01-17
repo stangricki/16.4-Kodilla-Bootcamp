@@ -3,4 +3,4 @@ package-lock.json
 build
 .babelrc
 package.json
-webpack.config
+webpack.config.js
