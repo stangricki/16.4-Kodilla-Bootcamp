@@ -7817,16 +7817,7 @@ var App = function (_React$Component) {
         var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
         _this.state = {
-            data: [{
-                text: 'Zadanie 1',
-                id: 1
-            }, {
-                text: 'Zadanie 2',
-                id: 2
-            }, {
-                text: 'Zadanie 3',
-                id: 3
-            }]
+            data: []
         };
         return _this;
     }

@@ -7,21 +7,7 @@ class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            data: [
-                {
-                    text: 'Zadanie 1',
-                    id: 1
-                },
-                {
-                    text: 'Zadanie 2',
-                    id: 2
-                },
-                {
-                    text: 'Zadanie 3',
-                    id: 3
-                }
-
-            ],
+            data: [ ],
         };
     }
     addTodo(val) {
